@@ -1,0 +1,9 @@
+{
+  "name": "script_rename_files",
+  "version": "1.0.0",
+  "description": "Python script to rename files in a directory",
+  "main": "rename_files.py",
+  "author": "Amaury Cahuet",
+  "license": "MIT",
+  "private": false
+}
