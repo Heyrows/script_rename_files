@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "Python script to rename files in a directory",
   "main": "rename_files.py",
-  "author": "Amaury Cahuet",
+  "author": {
+    "name": "Amaury Cahuet",
+    "email": "AmauryC_78@hotmail.fr"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Heyrows/script_rename_files.git"
+  },
   "private": false
 }
