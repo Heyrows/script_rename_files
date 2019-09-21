@@ -2,7 +2,7 @@
   "name": "script_rename_files",
   "version": "1.0.0",
   "description": "Python script to rename files in a directory",
-  "main": "rename_files.py",
+  "main": "main.py",
   "author": {
     "name": "Amaury Cahuet",
     "email": "AmauryC_78@hotmail.fr"
